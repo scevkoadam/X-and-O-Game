@@ -1,0 +1,25 @@
+
+.box {
+  width: 300px;
+  height: 300px;
+  border: 1px solid #ddd;
+  margin: 50px auto;
+}
+/* .newDiv {
+  width: 100px;
+  height: 100px;
+  background: tomato;
+} */
+
+.xo {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  float: left;
+  border: 1px solid #eee;
+  background: cadetblue;
+  box-sizing: border-box;
+  font-size: 44px;
+  color: white;
+  text-align: center;
+}
